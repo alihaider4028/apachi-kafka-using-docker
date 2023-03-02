@@ -1,0 +1,8 @@
+com\iconsult\config\KafkaTopicConfig.class
+com\iconsult\controller\MessageController.class
+com\iconsult\kafka\KafkaProducer.class
+com\iconsult\controller\JsonMessageController.class
+com\iconsult\payload\User.class
+com\iconsult\repositorry\UserRepo.class
+com\iconsult\kafka\JsonKafkaProducer.class
+com\iconsult\SpringbootKafkaApplication.class
