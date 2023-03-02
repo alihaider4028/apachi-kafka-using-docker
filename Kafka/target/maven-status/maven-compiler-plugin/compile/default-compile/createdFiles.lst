@@ -1,0 +1,4 @@
+com\iconsult\KafkaApplication.class
+com\iconsult\repositorry\UserRepo.class
+com\iconsult\kafka\JsonKafkaConsumer.class
+com\iconsult\payload\User.class
